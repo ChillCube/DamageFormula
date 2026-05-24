@@ -27,3 +27,8 @@ remove-gd-addon DamageFormula
 ```bash
 push-all-addons
 ```
+
+## Used By
+1 other ChillCube addon(s) depend on this:
+
+- [DamageReceiver](https://github.com/ChillCube/DamageReceiver)
